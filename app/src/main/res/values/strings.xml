@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="my_expenses">Мои расходы</string>
+    <string name="add_expense">Добавить расход</string>
+    <string name="amount">Сумма</string>
+    <string name="currency">Валюта</string>
+    <string name="category">Категория</string>
+    <string name="comment">Комментарий (опционально)</string>
+    <string name="date">Дата</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="food">Еда</string>
+    <string name="transport">Транспорт</string>
+    <string name="entertainment">Развлечения</string>
+    <string name="utilities">Коммунальные услуги</string>
+    <string name="other">Другое</string>
+    <string name="filter_by_category">Фильтр по категории</string>
+    <string name="all_categories">Все категории</string>
+    <string name="manage_categories">Управление категориями</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="delete_category">Удалить категорию</string>
+    <string name="add_new_category">Добавить новую категорию</string>
+    <string name="enter_category_name">Введите название категории</string>
+    <string name="category_name">Название категории</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_custom_categories">Нет пользовательских категорий</string>
+    <string name="select_period">Выбор периода</string>
+    <string name="quick_selection">Быстрый выбор</string>
+    <string name="last_7_days">Последние 7 дней</string>
+    <string name="last_30_days">Последние 30 дней</string>
+    <string name="last_90_days">Последние 90 дней</string>
+    <string name="current_month">Текущий месяц</string>
+    <string name="current_year">Текущий год</string>
+    <string name="custom_period">Произвольный период</string>
+    <string name="start_date">Дата начала</string>
+    <string name="end_date">Дата окончания</string>
+    <string name="view_chart">Просмотреть диаграмму</string>
+    <string name="expense_chart">Диаграмма расходов</string>
+    <string name="period">Период</string>
+    <string name="total_expenses">Всего расходов</string>
+    <string name="no_expenses_for_period">Нет расходов за выбранный период</string>
+    <string name="expense_breakdown">Распределение расходов</string>
+    <string name="pie_chart_coming_soon">Круговая диаграмма скоро будет доступна</string>
+    
+    <!-- Notification Settings -->
+    <string name="notification_settings">Настройки уведомлений</string>
+    <string name="daily_reminder">Ежедневное напоминание</string>
+    <string name="weekly_summary">Еженедельная сводка</string>
+    <string name="budget_alerts">Оповещения о бюджете</string>
+    <string name="notification_time">Время уведомления</string>
+    <string name="notification_day">День недели</string>
+    <string name="enable_notifications">Включить уведомления</string>
+    <string name="save_notification_settings">Сохранить настройки</string>
+</resources>
